@@ -47,3 +47,4 @@ There's nothing to install. Either:
 ## Built with
 
 Plain HTML, CSS and JavaScript (no frameworks): `fetch()`, `async/await`, `try/catch`, and `URLSearchParams`. Supports light and dark mode and works on phones.
+
